@@ -6,43 +6,52 @@
 
 | Total Problems | Topics |
 |---|---|
-| 111 | 22 |
+| 126 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [binary search](#binary-search) (8)
+- [Uncategorized](#uncategorized) (1)
+- [binary search](#binary-search) (10)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (26)
-- [combinatorics](#combinatorics) (5)
-- [constructive algorithms](#constructive-algorithms) (20)
+- [brute force](#brute-force) (31)
+- [combinatorics](#combinatorics) (6)
+- [constructive algorithms](#constructive-algorithms) (22)
 - [data structures](#data-structures) (10)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (10)
+- [dp](#dp) (11)
 - [dsu](#dsu) (2)
 - [games](#games) (4)
 - [geometry](#geometry) (3)
-- [graphs](#graphs) (3)
-- [greedy](#greedy) (43)
-- [implementation](#implementation) (45)
-- [math](#math) (40)
-- [number theory](#number-theory) (6)
+- [graphs](#graphs) (4)
+- [greedy](#greedy) (51)
+- [implementation](#implementation) (50)
+- [math](#math) (45)
+- [number theory](#number-theory) (8)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (22)
-- [strings](#strings) (9)
+- [sortings](#sortings) (26)
+- [strings](#strings) (10)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (10)
+- [two pointers](#two-pointers) (12)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
 
 ### binary search
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
+| 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/978/C%20-%20Letters/solution.cpp) |
 | 996B | [World Cup](https://codeforces.com/contest/996/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/996/B%20-%20World%20Cup/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
@@ -66,14 +75,17 @@
 | 253D | [Table with Letters - 2](https://codeforces.com/contest/253/problem/D) | 2000 | [C++17 (GCC 7-32)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/253/D%20-%20Table%20with%20Letters%20-%202/solution.cpp) |
 | 342B | [Xenia and Spies](https://codeforces.com/contest/342/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/342/B%20-%20Xenia%20and%20Spies/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
+| 462A | [Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/462/A%20-%20Appleman%20and%20Easy%20Task/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 675B | [Restoring Painting](https://codeforces.com/contest/675/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/675/B%20-%20Restoring%20Painting/solution.cpp) |
 | 807B | [T-Shirt Hunt](https://codeforces.com/contest/807/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/807/B%20-%20T-Shirt%20Hunt/solution.cpp) |
+| 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 911C | [Three Garlands](https://codeforces.com/contest/911/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/911/C%20-%20Three%20Garlands/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1088A | [Ehab and another construction problem](https://codeforces.com/contest/1088/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1088/A%20-%20Ehab%20and%20another%20construction%20problem/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
 | 1200A | [Hotelier](https://codeforces.com/contest/1200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1200/A%20-%20Hotelier/solution.cpp) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.cpp) |
 | 1466A | [Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1466/A%20-%20Bovine%20Dilemma/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1546A | [AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1546/A%20-%20AquaMoon%20and%20Two%20Arrays/solution.cpp) |
@@ -87,12 +99,15 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
+| 1552B | [Running for Gold](https://codeforces.com/contest/1552/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1552/B%20-%20Running%20for%20Gold/solution.cpp) |
 | 1614C | [Divan and bitwise operations](https://codeforces.com/contest/1614/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1614/C%20-%20Divan%20and%20bitwise%20operations/solution.cpp) |
 | 1658B | [Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1658/B%20-%20Marin%20and%20Anti-coprime%20Permutation/solution.cpp) |
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
@@ -122,6 +137,8 @@
 | 2250B | [String Construction](https://codeforces.com/contest/2250/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2250/B%20-%20String%20Construction/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### data structures
 
@@ -160,6 +177,7 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2266H | [Deque Malfunction](https://codeforces.com/contest/2266/problem/H) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2266/H%20-%20Deque%20Malfunction/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### dsu
 
@@ -191,6 +209,7 @@
 |---|---------|------------|----------|
 | 22C | [System Administrator](https://codeforces.com/contest/22/problem/C) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/22/C%20-%20System%20Administrator/solution.cpp) |
 | 643B | [Bear and Two Paths](https://codeforces.com/contest/643/problem/B) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/643/B%20-%20Bear%20and%20Two%20Paths/solution.cpp) |
+| 1552B | [Running for Gold](https://codeforces.com/contest/1552/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1552/B%20-%20Running%20for%20Gold/solution.cpp) |
 | 2257C | [Spying on the Beaver](https://codeforces.com/contest/2257/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2257/C%20-%20Spying%20on%20the%20Beaver/solution.cpp) |
 
 ### greedy
@@ -207,14 +226,17 @@
 | 659C | [Tanya and Toys](https://codeforces.com/contest/659/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/659/C%20-%20Tanya%20and%20Toys/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 1061A | [Coins](https://codeforces.com/contest/1061/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1061/A%20-%20Coins/solution.cpp) |
+| 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
 | 1154D | [Walking Robot](https://codeforces.com/contest/1154/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1154/D%20-%20Walking%20Robot/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
 | 1307A | [Cow and Haybales](https://codeforces.com/contest/1307/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1307/A%20-%20Cow%20and%20Haybales/solution.cpp) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.cpp) |
 | 1392C | [Omkar and Waterslide](https://codeforces.com/contest/1392/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1392/C%20-%20Omkar%20and%20Waterslide/solution.cpp) |
 | 1445B | [Elimination](https://codeforces.com/contest/1445/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1445/B%20-%20Elimination/solution.cpp) |
 | 1481B | [New Colony](https://codeforces.com/contest/1481/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1481/B%20-%20New%20Colony/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1546A | [AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1546/A%20-%20AquaMoon%20and%20Two%20Arrays/solution.cpp) |
+| 1552B | [Running for Gold](https://codeforces.com/contest/1552/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1552/B%20-%20Running%20for%20Gold/solution.cpp) |
 | 1644C | [Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1644/C%20-%20Increase%20Subarray%20Sums/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1670A | [Prof. Slim](https://codeforces.com/contest/1670/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1670/A%20-%20Prof.%20Slim/solution.cpp) |
@@ -225,6 +247,7 @@
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.cpp) |
+| 1804A | [Lame King](https://codeforces.com/contest/1804/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1804/A%20-%20Lame%20King/solution.cpp) |
 | 1805B | [The String Has a Target](https://codeforces.com/contest/1805/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1805/B%20-%20The%20String%20Has%20a%20Target/solution.cpp) |
 | 1833C | [Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1833/C%20-%20Vlad%20Building%20Beautiful%20Array/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
@@ -240,6 +263,10 @@
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266H | [Deque Malfunction](https://codeforces.com/contest/2266/problem/H) | 2400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2266/H%20-%20Deque%20Malfunction/solution.cpp) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### implementation
 
@@ -252,6 +279,7 @@
 | 342B | [Xenia and Spies](https://codeforces.com/contest/342/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/342/B%20-%20Xenia%20and%20Spies/solution.cpp) |
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.cpp) |
 | 384B | [Multitasking](https://codeforces.com/contest/384/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/384/B%20-%20Multitasking/solution.cpp) |
+| 462A | [Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/462/A%20-%20Appleman%20and%20Easy%20Task/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 560B | [Gerald is into Art](https://codeforces.com/contest/560/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/560/B%20-%20Gerald%20is%20into%20Art/solution.cpp) |
@@ -264,11 +292,14 @@
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 837A | [Text Volume](https://codeforces.com/contest/837/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/837/A%20-%20Text%20Volume/solution.cpp) |
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
+| 911B | [Two Cakes](https://codeforces.com/contest/911/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/911/B%20-%20Two%20Cakes/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/978/C%20-%20Letters/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1061A | [Coins](https://codeforces.com/contest/1061/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1061/A%20-%20Coins/solution.cpp) |
+| 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
 | 1101E | [Polycarp's New Job](https://codeforces.com/contest/1101/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1101/E%20-%20Polycarp's%20New%20Job/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
+| 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
 | 1200A | [Hotelier](https://codeforces.com/contest/1200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1200/A%20-%20Hotelier/solution.cpp) |
 | 1307A | [Cow and Haybales](https://codeforces.com/contest/1307/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1307/A%20-%20Cow%20and%20Haybales/solution.cpp) |
@@ -290,6 +321,7 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
 
 ### math
 
@@ -306,8 +338,10 @@
 | 996B | [World Cup](https://codeforces.com/contest/996/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/996/B%20-%20World%20Cup/solution.cpp) |
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1061A | [Coins](https://codeforces.com/contest/1061/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1061/A%20-%20Coins/solution.cpp) |
+| 1117A | [Best Subsegment](https://codeforces.com/contest/1117/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1117/A%20-%20Best%20Subsegment/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
 | 1283B | [Candies Division](https://codeforces.com/contest/1283/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1283/B%20-%20Candies%20Division/solution.cpp) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.cpp) |
 | 1445B | [Elimination](https://codeforces.com/contest/1445/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1445/B%20-%20Elimination/solution.cpp) |
 | 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1466A | [Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1466/A%20-%20Bovine%20Dilemma/solution.cpp) |
@@ -321,6 +355,7 @@
 | 1759C | [Thermostat](https://codeforces.com/contest/1759/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1759/C%20-%20Thermostat/solution.cpp) |
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1804A | [Lame King](https://codeforces.com/contest/1804/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1804/A%20-%20Lame%20King/solution.cpp) |
 | 1833C | [Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1833/C%20-%20Vlad%20Building%20Beautiful%20Array/solution.cpp) |
 | 1835A | [k-th equality](https://codeforces.com/contest/1835/problem/A) | 1700 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1835/A%20-%20k-th%20equality/solution.cpp) |
 | 1857E | [Power of Points](https://codeforces.com/contest/1857/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1857/E%20-%20Power%20of%20Points/solution.cpp) |
@@ -335,17 +370,21 @@
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2264B | [Knife's Pill Farm](https://codeforces.com/contest/2264/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/B%20-%20Knife's%20Pill%20Farm/solution.cpp) |
 | 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
+| 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.cpp) |
 | 1658B | [Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1658/B%20-%20Marin%20and%20Anti-coprime%20Permutation/solution.cpp) |
 | 1714E | [Add Modulo 10](https://codeforces.com/contest/1714/problem/E) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1714/E%20-%20Add%20Modulo%2010/solution.cpp) |
 | 2244C | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2244/C%20-%20Stepan%20and%20Permutation/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
 
 ### probabilities
 
@@ -367,6 +406,7 @@
 | 384B | [Multitasking](https://codeforces.com/contest/384/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/384/B%20-%20Multitasking/solution.cpp) |
 | 461A | [Appleman and Toastman](https://codeforces.com/contest/461/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/461/A%20-%20Appleman%20and%20Toastman/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 792A | [New Bus Route](https://codeforces.com/contest/792/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/792/A%20-%20New%20Bus%20Route/solution.cpp) |
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
@@ -374,6 +414,7 @@
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
 | 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
+| 1552B | [Running for Gold](https://codeforces.com/contest/1552/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1552/B%20-%20Running%20for%20Gold/solution.cpp) |
 | 1670A | [Prof. Slim](https://codeforces.com/contest/1670/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1670/A%20-%20Prof.%20Slim/solution.cpp) |
 | 1738A | [Glory Addicts](https://codeforces.com/contest/1738/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1738/A%20-%20Glory%20Addicts/solution.cpp) |
 | 1857E | [Power of Points](https://codeforces.com/contest/1857/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1857/E%20-%20Power%20of%20Points/solution.cpp) |
@@ -385,6 +426,8 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2264C | [Madamant's Skating Dynasty](https://codeforces.com/contest/2264/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/C%20-%20Madamant's%20Skating%20Dynasty/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### strings
 
@@ -399,6 +442,7 @@
 | 2252B | [Always Changing](https://codeforces.com/contest/2252/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2252/B%20-%20Always%20Changing/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
 ### trees
 
@@ -414,12 +458,14 @@
 | 253D | [Table with Letters - 2](https://codeforces.com/contest/253/problem/D) | 2000 | [C++17 (GCC 7-32)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/253/D%20-%20Table%20with%20Letters%20-%202/solution.cpp) |
 | 384B | [Multitasking](https://codeforces.com/contest/384/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/384/B%20-%20Multitasking/solution.cpp) |
 | 387B | [George and Round](https://codeforces.com/contest/387/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/387/B%20-%20George%20and%20Round/solution.cpp) |
+| 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/978/C%20-%20Letters/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ---
 
