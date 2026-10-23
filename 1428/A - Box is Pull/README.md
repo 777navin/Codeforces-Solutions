@@ -1,0 +1,22 @@
+<h2><a href="https://codeforces.com/contest/1428/problem/A" target="_blank" rel="noopener noreferrer">1428A — Box is Pull</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1428A](https://codeforces.com/contest/1428/problem/A) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Box is Pull</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Wabbit is trying to move a box containing food for the rest of the zoo in the coordinate plane from the point $$$(x_1,y_1)$$$ to the point $$$(x_2,y_2)$$$.</p><p>He has a rope, which he can use to pull the box. He can only pull the box if he stands <span class="tex-font-style-bf">exactly</span> $$$1$$$ unit away from the box in the direction of one of two coordinate axes. He will pull the box to where he is standing before moving out of the way in the same direction by $$$1$$$ unit. </p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/9499fd44365b892f892ccb13b6cbcd260f904b0e.png" style="max-width: 100.0%;max-height: 100.0%;"> </center><p>For example, if the box is at the point $$$(1,2)$$$ and Wabbit is standing at the point $$$(2,2)$$$, he can pull the box right by $$$1$$$ unit, with the box ending up at the point $$$(2,2)$$$ and Wabbit ending at the point $$$(3,2)$$$.</p><p>Also, Wabbit can move $$$1$$$ unit to the right, left, up, or down without pulling the box. In this case, it is not necessary for him to be in exactly $$$1$$$ unit away from the box. If he wants to pull the box again, he must return to a point next to the box. Also, Wabbit can't move to the point where the box is located.</p><p>Wabbit can start at any point. It takes $$$1$$$ second to travel $$$1$$$ unit right, left, up, or down, regardless of whether he pulls the box while moving.</p><p>Determine the minimum amount of time he needs to move the box from $$$(x_1,y_1)$$$ to $$$(x_2,y_2)$$$. Note that the point where Wabbit ends up at does not matter.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains a single integer $$$t$$$ $$$(1 \leq t \leq 1000)$$$: the number of test cases. The description of the test cases follows.</p><p>Each of the next $$$t$$$ lines contains four space-separated integers $$$x_1, y_1, x_2, y_2$$$ $$$(1 \leq x_1, y_1, x_2, y_2 \leq 10^9)$$$, describing the next test case.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, print a single integer: the minimum time in seconds Wabbit needs to bring the box from $$$(x_1,y_1)$$$ to $$$(x_2,y_2)$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007411590040107054" id="id005814520075148255" class="input-output-copier">Copy</div></div><pre id="id007411590040107054">2
+1 2 2 2
+1 1 2 2
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004142313404292255" id="id008556690007896013" class="input-output-copier">Copy</div></div><pre id="id004142313404292255">1
+4
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, the starting and the ending points of the box are $$$(1,2)$$$ and $$$(2,2)$$$ respectively. This is the same as the picture in the statement. Wabbit needs only $$$1$$$ second to move as shown in the picture in the statement.</p><p>In the second test case, Wabbit can start at the point $$$(2,1)$$$. He pulls the box to $$$(2,1)$$$ while moving to $$$(3,1)$$$. He then moves to $$$(3,2)$$$ and then to $$$(2,2)$$$ without pulling the box. Then, he pulls the box to $$$(2,2)$$$ while moving to $$$(2,3)$$$. It takes $$$4$$$ seconds.</p></div>
