@@ -1,0 +1,27 @@
+<h2><a href="https://codeforces.com/contest/1759/problem/C" target="_blank" rel="noopener noreferrer">1759C — Thermostat</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1100 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1759C](https://codeforces.com/contest/1759/problem/C) |
+
+## Topics
+`greedy` `math` `shortest paths`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">C. Thermostat</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Vlad came home and found out that someone had reconfigured the old thermostat to the temperature of $$$a$$$.</p><p>The thermostat can only be set to a temperature from $$$l$$$ to $$$r$$$ inclusive, the temperature cannot change by less than $$$x$$$. Formally, in one operation you can reconfigure the thermostat from temperature $$$a$$$ to temperature $$$b$$$ if $$$|a - b| \ge x$$$ and $$$l \le b \le r$$$.</p><p>You are given $$$l$$$, $$$r$$$, $$$x$$$, $$$a$$$ and $$$b$$$. Find the minimum number of operations required to get temperature $$$b$$$ from temperature $$$a$$$, or say that it is impossible.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input data contains the single integer $$$t$$$ ($$$1 \le t \le 10^4$$$) — the number of test cases in the test.</p><p>The descriptions of the test cases follow.</p><p>The first line of each case contains three integers $$$l$$$, $$$r$$$ and $$$x$$$ ($$$-10^9 \le l \le r \le 10^9$$$, $$$1 \le x \le 10^9$$$) — range of temperature and minimum temperature change.</p><p>The second line of each case contains two integers $$$a$$$ and $$$b$$$ ($$$l \le a, b \le r$$$) — the initial and final temperatures.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output $$$t$$$ numbers, each of which is the answer to the corresponding test case. If it is impossible to achieve the temperature $$$b$$$, output <span class="tex-font-style-tt">-1</span>, otherwise output the minimum number of operations.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0009823391097367251" id="id009970673144369037" class="input-output-copier">Copy</div></div><pre id="id0009823391097367251"><div class="test-example-line test-example-line-even test-example-line-0">10</div><div class="test-example-line test-example-line-odd test-example-line-1">3 5 6</div><div class="test-example-line test-example-line-odd test-example-line-1">3 3</div><div class="test-example-line test-example-line-even test-example-line-2">0 15 5</div><div class="test-example-line test-example-line-even test-example-line-2">4 5</div><div class="test-example-line test-example-line-odd test-example-line-3">0 10 5</div><div class="test-example-line test-example-line-odd test-example-line-3">3 7</div><div class="test-example-line test-example-line-even test-example-line-4">3 5 6</div><div class="test-example-line test-example-line-even test-example-line-4">3 4</div><div class="test-example-line test-example-line-odd test-example-line-5">-10 10 11</div><div class="test-example-line test-example-line-odd test-example-line-5">-5 6</div><div class="test-example-line test-example-line-even test-example-line-6">-3 3 4</div><div class="test-example-line test-example-line-even test-example-line-6">1 0</div><div class="test-example-line test-example-line-odd test-example-line-7">-5 10 8</div><div class="test-example-line test-example-line-odd test-example-line-7">9 2</div><div class="test-example-line test-example-line-even test-example-line-8">1 5 1</div><div class="test-example-line test-example-line-even test-example-line-8">2 5</div><div class="test-example-line test-example-line-odd test-example-line-9">-1 4 3</div><div class="test-example-line test-example-line-odd test-example-line-9">0 2</div><div class="test-example-line test-example-line-even test-example-line-10">-6 3 6</div><div class="test-example-line test-example-line-even test-example-line-10">-1 -4</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0013518145567933582" id="id009904920523351395" class="input-output-copier">Copy</div></div><pre id="id0013518145567933582">0
+2
+3
+-1
+1
+-1
+3
+1
+3
+-1
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example, the thermostat is already set up correctly.</p><p>In the second example, you can achieve the desired temperature as follows: $$$4 \rightarrow 10 \rightarrow 5$$$.</p><p>In the third example, you can achieve the desired temperature as follows: $$$3 \rightarrow 8 \rightarrow 2 \rightarrow 7$$$.</p><p>In the fourth test, it is impossible to make any operation.</p></div>
