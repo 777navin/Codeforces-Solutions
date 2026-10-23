@@ -1,17 +1,86 @@
-<h2><a href="https://codeforces.com/contest/228/problem/A" target="_blank" rel="noopener noreferrer">228A — Is your horseshoe on the other hoof?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 800 |
-| **Language** | C++23 (GCC 14-64, msys2) |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 228A](https://codeforces.com/contest/228/problem/A) |
-
-## Topics
-`implementation`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">A. Is your horseshoe on the other hoof?</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Valera the Horse is going to the party with friends. He has been following the fashion trends for a while, and he knows that it is very popular to wear all horseshoes of different color. Valera has got four horseshoes left from the last year, but maybe some of them have the same color. In this case he needs to go to the store and buy some few more horseshoes, not to lose face in front of his stylish comrades.</p><p>Fortunately, the store sells horseshoes of all colors under the sun and Valera has enough money to buy any four of them. However, in order to save the money, he would like to spend as little money as possible, so you need to help Valera and determine what is the minimum number of horseshoes he needs to buy to wear four horseshoes of different colors to a party.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains four space-separated integers <span class="tex-span"><i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, <i>s</i><sub class="lower-index">3</sub>, <i>s</i><sub class="lower-index">4</sub></span> <span class="tex-span">(1 ≤ <i>s</i><sub class="lower-index">1</sub>, <i>s</i><sub class="lower-index">2</sub>, <i>s</i><sub class="lower-index">3</sub>, <i>s</i><sub class="lower-index">4</sub> ≤ 10<sup class="upper-index">9</sup>)</span> — the colors of horseshoes Valera has.</p><p>Consider all possible colors indexed with integers.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print a single integer — the minimum number of horseshoes Valera needs to buy.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0043077392828870864" id="id001985439709503044" class="input-output-copier">Copy</div></div><pre id="id0043077392828870864">1 7 3 3<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006231796133882997" id="id008820036663005519" class="input-output-copier">Copy</div></div><pre id="id006231796133882997">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007493536629326655" id="id008550461143170631" class="input-output-copier">Copy</div></div><pre id="id007493536629326655">7 7 7 7<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0020567645869486495" id="id007775133983262627" class="input-output-copier">Copy</div></div><pre id="id0020567645869486495">3<br></pre></div></div></div>
+/*
+=========================================================
+Date        : 17-08-2026
+Problem Name: 228A - Is your horseshoe on the other hoof?
+Platform    : Codeforces
+Difficulty  : 800
+Tags        : implementation
+ 
+Problem Summary:
+Valera has 4 horseshoes, each with a color represented by an integer.
+He wants all 4 horseshoes to have distinct colors.
+Find the minimum number of horseshoes he needs to purchase.
+ 
+Key Observation:
+If Valera already possesses `k` distinct colors among his 4 horseshoes,
+he needs to buy `4 - k` new horseshoes with distinct colors.
+=========================================================
+*/
+ 
+/*
+---------------------------------------------------------
+APPROACH 1: Sorting & Linear Scan
+---------------------------------------------------------
+• Intuition:
+  Sorting the 4 numbers groups duplicates together, making them easy to count.
+ 
+• Approach:
+  Read the 4 integers into an array, sort it, and count adjacent equal elements.
+ 
+• Why it Works:
+  Every pair of adjacent equal elements represents a duplicate shoe that must be replaced.
+ 
+• Time Complexity (TC): O(1) — Sorting 4 elements takes constant time O(4 log 4).
+• Space Complexity (SC): O(1) — Minimal auxiliary space used.
+ 
+---------------------------------------------------------
+APPROACH 2: Hash Set / Unique Elements (Optimal)
+---------------------------------------------------------
+• Intuition:
+  A `std::set` or `std::unordered_set` automatically filters out duplicate color values.
+ 
+• Approach:
+  Insert all 4 shoe colors into a set, then the answer is simply `4 - set.size()`.
+ 
+• Why it Works:
+  The set contains only unique colors (`k`). To have 4 unique colors, exactly `4 - k` distinct shoes need to be bought.
+ 
+• Time Complexity (TC): O(1) — Inserting 4 elements takes constant time.
+• Space Complexity (SC): O(1) — Stores at most 4 elements.
+---------------------------------------------------------
+*/
+ 
+/*
+---------------------------------------------------------
+FINAL APPROACH:
+Using `std::set` is concise, completely avoids manual duplicate checking,
+and directly conveys the intent of finding unique color counts in O(1) time and space.
+---------------------------------------------------------
+*/
+ 
+#include <iostream>
+#include <set>
+ 
+using namespace std;
+ 
+void solve() {
+    set<int> unique_colors;
+    for (int i = 0; i < 4; ++i) {
+        int color;
+        cin >> color;
+        unique_colors.insert(color);
+    }
+    
+    cout << 4 - static_cast<int>(unique_colors.size()) << "
+";
+}
+ 
+int main() {
+    // Fast I/O
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+ 
+    solve();
+ 
+    return 0;
+}
