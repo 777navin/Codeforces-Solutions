@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 157 | 25 |
+| 159 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (37)
@@ -45,6 +45,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
+| 2277A | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2277/A%20-%20Subset%20Selecting/solution.cpp) |
+| 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 
 ### binary search
 
