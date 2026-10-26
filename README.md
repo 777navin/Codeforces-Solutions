@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 160 | 25 |
+| 161 | 25 |
 
 ---
 
@@ -27,14 +27,14 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (63)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (63)
+- [implementation](#implementation) (64)
 - [math](#math) (54)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (9)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (28)
-- [strings](#strings) (16)
+- [strings](#strings) (17)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (12)
 
@@ -371,6 +371,7 @@
 | 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1547A | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1547/A%20-%20Shortest%20Path%20with%20Obstacle/solution.cpp) |
+| 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.cpp) |
 | 1644C | [Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1644/C%20-%20Increase%20Subarray%20Sums/solution.cpp) |
 | 1670A | [Prof. Slim](https://codeforces.com/contest/1670/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1670/A%20-%20Prof.%20Slim/solution.cpp) |
 | 1710B | [Rain](https://codeforces.com/contest/1710/problem/B) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1710/B%20-%20Rain/solution.cpp) |
@@ -526,6 +527,7 @@
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 1315B | [Homecoming](https://codeforces.com/contest/1315/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1315/B%20-%20Homecoming/solution.cpp) |
+| 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.cpp) |
 | 1659B | [Bit Flipping](https://codeforces.com/contest/1659/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1659/B%20-%20Bit%20Flipping/solution.cpp) |
 | 1800E1 | [Unforgivable Curse (easy version)](https://codeforces.com/contest/1800/problem/E1) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1800/E1%20-%20Unforgivable%20Curse%20(easy%20version)/solution.cpp) |
 | 1805B | [The String Has a Target](https://codeforces.com/contest/1805/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1805/B%20-%20The%20String%20Has%20a%20Target/solution.cpp) |
