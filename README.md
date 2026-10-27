@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 161 | 25 |
+| 162 | 25 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (5)
 - [brute force](#brute-force) (37)
 - [combinatorics](#combinatorics) (6)
-- [constructive algorithms](#constructive-algorithms) (28)
+- [constructive algorithms](#constructive-algorithms) (29)
 - [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (6)
 - [dp](#dp) (14)
@@ -28,7 +28,7 @@
 - [greedy](#greedy) (63)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (64)
-- [math](#math) (54)
+- [math](#math) (55)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (9)
 - [probabilities](#probabilities) (1)
@@ -143,6 +143,7 @@
 | 1088A | [Ehab and another construction problem](https://codeforces.com/contest/1088/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1088/A%20-%20Ehab%20and%20another%20construction%20problem/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
 | 1425H | [Huge Boxes of Animal Toys](https://codeforces.com/contest/1425/problem/H) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1425/H%20-%20Huge%20Boxes%20of%20Animal%20Toys/solution.cpp) |
+| 1436B | [Prime Square](https://codeforces.com/contest/1436/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1436/B%20-%20Prime%20Square/solution.cpp) |
 | 1461A | [String Generation](https://codeforces.com/contest/1461/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1461/A%20-%20String%20Generation/solution.cpp) |
 | 1523B | [Lord of the Values](https://codeforces.com/contest/1523/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1523/B%20-%20Lord%20of%20the%20Values/solution.cpp) |
 | 1608A | [Find Array](https://codeforces.com/contest/1608/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1608/A%20-%20Find%20Array/solution.cpp) |
@@ -415,6 +416,7 @@
 | 1388A | [Captain Flint and Crew Recruitment](https://codeforces.com/contest/1388/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1388/A%20-%20Captain%20Flint%20and%20Crew%20Recruitment/solution.cpp) |
 | 1422B | [Nice Matrix](https://codeforces.com/contest/1422/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1422/B%20-%20Nice%20Matrix/solution.cpp) |
 | 1428A | [Box is Pull](https://codeforces.com/contest/1428/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1428/A%20-%20Box%20is%20Pull/solution.cpp) |
+| 1436B | [Prime Square](https://codeforces.com/contest/1436/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1436/B%20-%20Prime%20Square/solution.cpp) |
 | 1445B | [Elimination](https://codeforces.com/contest/1445/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1445/B%20-%20Elimination/solution.cpp) |
 | 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1466A | [Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1466/A%20-%20Bovine%20Dilemma/solution.cpp) |
