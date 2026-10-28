@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 162 | 25 |
+| 163 | 25 |
 
 ---
 
@@ -18,17 +18,17 @@
 - [brute force](#brute-force) (37)
 - [combinatorics](#combinatorics) (6)
 - [constructive algorithms](#constructive-algorithms) (29)
-- [data structures](#data-structures) (13)
+- [data structures](#data-structures) (14)
 - [dfs and similar](#dfs-and-similar) (6)
-- [dp](#dp) (14)
+- [dp](#dp) (15)
 - [dsu](#dsu) (3)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (63)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (64)
-- [math](#math) (55)
+- [implementation](#implementation) (65)
+- [math](#math) (56)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (9)
 - [probabilities](#probabilities) (1)
@@ -36,7 +36,7 @@
 - [sortings](#sortings) (28)
 - [strings](#strings) (17)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (12)
+- [two pointers](#two-pointers) (13)
 
 ---
 
@@ -173,6 +173,7 @@
 | 755B | [PolandBall and Game](https://codeforces.com/contest/755/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/755/B%20-%20PolandBall%20and%20Game/solution.cpp) |
 | 1200A | [Hotelier](https://codeforces.com/contest/1200/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1200/A%20-%20Hotelier/solution.cpp) |
 | 1566D1 | [Seating Arrangements (easy version) ](https://codeforces.com/contest/1566/problem/D1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1566/D1%20-%20Seating%20Arrangements%20(easy%20version)%20/solution.cpp) |
+| 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1710B | [Rain](https://codeforces.com/contest/1710/problem/B) | 2100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1710/B%20-%20Rain/solution.cpp) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.cpp) |
@@ -202,6 +203,7 @@
 | 1315B | [Homecoming](https://codeforces.com/contest/1315/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1315/B%20-%20Homecoming/solution.cpp) |
 | 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
+| 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.cpp) |
 | 1614C | [Divan and bitwise operations](https://codeforces.com/contest/1614/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1614/C%20-%20Divan%20and%20bitwise%20operations/solution.cpp) |
 | 1644C | [Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1644/C%20-%20Increase%20Subarray%20Sums/solution.cpp) |
 | 1767D | [Playoff](https://codeforces.com/contest/1767/problem/D) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1767/D%20-%20Playoff/solution.cpp) |
@@ -372,6 +374,7 @@
 | 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1547A | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1547/A%20-%20Shortest%20Path%20with%20Obstacle/solution.cpp) |
+| 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.cpp) |
 | 1607A | [Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1607/A%20-%20Linear%20Keyboard/solution.cpp) |
 | 1644C | [Increase Subarray Sums](https://codeforces.com/contest/1644/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1644/C%20-%20Increase%20Subarray%20Sums/solution.cpp) |
 | 1670A | [Prof. Slim](https://codeforces.com/contest/1670/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1670/A%20-%20Prof.%20Slim/solution.cpp) |
@@ -422,6 +425,7 @@
 | 1466A | [Bovine Dilemma](https://codeforces.com/contest/1466/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1466/A%20-%20Bovine%20Dilemma/solution.cpp) |
 | 1534B | [Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1534/B%20-%20Histogram%20Ugliness/solution.cpp) |
 | 1547A | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1547/A%20-%20Shortest%20Path%20with%20Obstacle/solution.cpp) |
+| 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.cpp) |
 | 1608A | [Find Array](https://codeforces.com/contest/1608/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1608/A%20-%20Find%20Array/solution.cpp) |
 | 1614C | [Divan and bitwise operations](https://codeforces.com/contest/1614/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1614/C%20-%20Divan%20and%20bitwise%20operations/solution.cpp) |
 | 1658B | [Marin and Anti-coprime Permutation](https://codeforces.com/contest/1658/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1658/B%20-%20Marin%20and%20Anti-coprime%20Permutation/solution.cpp) |
@@ -558,6 +562,7 @@
 | 888C | [K-Dominant Character](https://codeforces.com/contest/888/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/888/C%20-%20K-Dominant%20Character/solution.cpp) |
 | 978C | [Letters](https://codeforces.com/contest/978/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/978/C%20-%20Letters/solution.cpp) |
 | 1158A | [The Party and Sweets](https://codeforces.com/contest/1158/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1158/A%20-%20The%20Party%20and%20Sweets/solution.cpp) |
+| 1598C | [Delete Two Elements](https://codeforces.com/contest/1598/problem/C) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1598/C%20-%20Delete%20Two%20Elements/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
