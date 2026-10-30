@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 163 | 25 |
+| 164 | 25 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [constructive algorithms](#constructive-algorithms) (29)
 - [data structures](#data-structures) (14)
 - [dfs and similar](#dfs-and-similar) (6)
-- [dp](#dp) (15)
+- [dp](#dp) (16)
 - [dsu](#dsu) (3)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
@@ -200,6 +200,7 @@
 |---|---------|------------|----------|
 | 331C1 | [The Great Julya Calendar](https://codeforces.com/contest/331/problem/C1) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/331/C1%20-%20The%20Great%20Julya%20Calendar/solution.cpp) |
 | 1042B | [Vitamins](https://codeforces.com/contest/1042/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1042/B%20-%20Vitamins/solution.cpp) |
+| 1195C | [Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1195/C%20-%20Basketball%20Exercise/solution.cpp) |
 | 1315B | [Homecoming](https://codeforces.com/contest/1315/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1315/B%20-%20Homecoming/solution.cpp) |
 | 1461C | [Random Events](https://codeforces.com/contest/1461/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1461/C%20-%20Random%20Events/solution.cpp) |
 | 1501B | [Napoleon Cake](https://codeforces.com/contest/1501/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1501/B%20-%20Napoleon%20Cake/solution.cpp) |
