@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 164 | 25 |
+| 165 | 26 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
@@ -39,6 +40,12 @@
 - [two pointers](#two-pointers) (13)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1001C | [Generate GHZ state](https://codeforces.com/contest/1001/problem/C) | 1400 | [Q#](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1001/C%20-%20Generate%20GHZ%20state/solution.txt) |
 
 ### Uncategorized
 
