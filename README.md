@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 165 | 26 |
+| 166 | 26 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (37)
-- [combinatorics](#combinatorics) (6)
+- [brute force](#brute-force) (38)
+- [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (29)
 - [data structures](#data-structures) (14)
 - [dfs and similar](#dfs-and-similar) (6)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (63)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (65)
+- [implementation](#implementation) (66)
 - [math](#math) (56)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (9)
@@ -90,6 +90,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 46A | [Ball Game](https://codeforces.com/contest/46/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/46/A%20-%20Ball%20Game/solution.cpp) |
+| 124B | [Permutations](https://codeforces.com/contest/124/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/124/B%20-%20Permutations/solution.cpp) |
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
 | 239B | [Easy Tape Programming](https://codeforces.com/contest/239/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/239/B%20-%20Easy%20Tape%20Programming/solution.cpp) |
 | 253D | [Table with Letters - 2](https://codeforces.com/contest/253/problem/D) | 2000 | [C++17 (GCC 7-32)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/253/D%20-%20Table%20with%20Letters%20-%202/solution.cpp) |
@@ -130,6 +131,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 124B | [Permutations](https://codeforces.com/contest/124/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/124/B%20-%20Permutations/solution.cpp) |
 | 817B | [Makes And The Product](https://codeforces.com/contest/817/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/817/B%20-%20Makes%20And%20The%20Product/solution.cpp) |
 | 1552B | [Running for Gold](https://codeforces.com/contest/1552/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1552/B%20-%20Running%20for%20Gold/solution.cpp) |
 | 1614C | [Divan and bitwise operations](https://codeforces.com/contest/1614/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1614/C%20-%20Divan%20and%20bitwise%20operations/solution.cpp) |
@@ -340,6 +342,7 @@
 |---|---------|------------|----------|
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 46A | [Ball Game](https://codeforces.com/contest/46/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/46/A%20-%20Ball%20Game/solution.cpp) |
+| 124B | [Permutations](https://codeforces.com/contest/124/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/124/B%20-%20Permutations/solution.cpp) |
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/228/A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof%3F/solution.cpp) |
