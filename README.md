@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 168 | 26 |
+| 169 | 26 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (63)
+- [greedy](#greedy) (64)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (66)
 - [math](#math) (56)
@@ -331,6 +331,7 @@
 | 2274B | [Prefix](https://codeforces.com/contest/2274/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2274/B%20-%20Prefix/solution.cpp) |
 | 2275D | [Precision Alignment](https://codeforces.com/contest/2275/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2275/D%20-%20Precision%20Alignment/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
+| 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.cpp) |
 
 ### hashing
 
