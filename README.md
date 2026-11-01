@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 169 | 26 |
+| 170 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (64)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (66)
+- [implementation](#implementation) (67)
 - [math](#math) (56)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (9)
@@ -355,6 +355,7 @@
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.cpp) |
 | 384B | [Multitasking](https://codeforces.com/contest/384/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/384/B%20-%20Multitasking/solution.cpp) |
 | 462A | [Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/462/A%20-%20Appleman%20and%20Easy%20Task/solution.cpp) |
+| 471A | [MUH and Sticks](https://codeforces.com/contest/471/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/471/A%20-%20MUH%20and%20Sticks/solution.cpp) |
 | 485A | [Factory](https://codeforces.com/contest/485/problem/A) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/485/A%20-%20Factory/solution.cpp) |
 | 519B | [A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/519/B%20-%20A%20and%20B%20and%20Compilation%20Errors/solution.cpp) |
 | 548A | [Mike and Fax](https://codeforces.com/contest/548/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/548/A%20-%20Mike%20and%20Fax/solution.cpp) |
