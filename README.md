@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 170 | 26 |
+| 171 | 26 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (7)
 - [greedy](#greedy) (64)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (67)
+- [implementation](#implementation) (68)
 - [math](#math) (56)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (9)
@@ -374,6 +374,7 @@
 | 1012A | [Photo of The Sky](https://codeforces.com/contest/1012/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1012/A%20-%20Photo%20of%20The%20Sky/solution.cpp) |
 | 1042B | [Vitamins](https://codeforces.com/contest/1042/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1042/B%20-%20Vitamins/solution.cpp) |
 | 1061A | [Coins](https://codeforces.com/contest/1061/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1061/A%20-%20Coins/solution.cpp) |
+| 1066C | [Books Queries](https://codeforces.com/contest/1066/problem/C) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1066/C%20-%20Books%20Queries/solution.cpp) |
 | 1101B | [Accordion](https://codeforces.com/contest/1101/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1101/B%20-%20Accordion/solution.cpp) |
 | 1101E | [Polycarp's New Job](https://codeforces.com/contest/1101/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1101/E%20-%20Polycarp's%20New%20Job/solution.cpp) |
 | 1105A | [Salem and Sticks ](https://codeforces.com/contest/1105/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/1105/A%20-%20Salem%20and%20Sticks%20/solution.cpp) |
