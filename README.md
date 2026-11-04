@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 171 | 26 |
+| 172 | 26 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (5)
-- [brute force](#brute-force) (38)
+- [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (29)
 - [data structures](#data-structures) (14)
@@ -26,7 +26,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (7)
-- [greedy](#greedy) (64)
+- [greedy](#greedy) (65)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (68)
 - [math](#math) (56)
@@ -94,6 +94,7 @@
 | 46A | [Ball Game](https://codeforces.com/contest/46/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/46/A%20-%20Ball%20Game/solution.cpp) |
 | 124B | [Permutations](https://codeforces.com/contest/124/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/124/B%20-%20Permutations/solution.cpp) |
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 239B | [Easy Tape Programming](https://codeforces.com/contest/239/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/239/B%20-%20Easy%20Tape%20Programming/solution.cpp) |
 | 253D | [Table with Letters - 2](https://codeforces.com/contest/253/problem/D) | 2000 | [C++17 (GCC 7-32)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/253/D%20-%20Table%20with%20Letters%20-%202/solution.cpp) |
 | 342B | [Xenia and Spies](https://codeforces.com/contest/342/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/342/B%20-%20Xenia%20and%20Spies/solution.cpp) |
@@ -272,6 +273,7 @@
 | 33A | [What is for dinner?](https://codeforces.com/contest/33/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/33/A%20-%20What%20is%20for%20dinner%3F/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 202A | [LLPS](https://codeforces.com/contest/202/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/202/A%20-%20LLPS/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 342B | [Xenia and Spies](https://codeforces.com/contest/342/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/342/B%20-%20Xenia%20and%20Spies/solution.cpp) |
 | 381B | [Sereja and Stairs](https://codeforces.com/contest/381/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/381/B%20-%20Sereja%20and%20Stairs/solution.cpp) |
 | 384B | [Multitasking](https://codeforces.com/contest/384/problem/B) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/777navin/Codeforces-Solutions/blob/HEAD/384/B%20-%20Multitasking/solution.cpp) |
